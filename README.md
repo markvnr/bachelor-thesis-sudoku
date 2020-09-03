@@ -8,6 +8,7 @@ you can install the sudoku application by downloading the latest release.
 ## Usage
 
 to play the Sudoku game you need to click on an empty cell in the grid (the cell will be highlighted in blue).
+<br>
 then click on the appropriate numerical button and you will see the number appears in the selected cell.
 
 
