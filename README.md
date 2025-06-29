@@ -1,4 +1,4 @@
-# bachelor-thesis-sudoku
+# Sudoku Application in Java
 My bachelor thesis work in which I developed a Sudoku application in java which was randomly generated with a simple algorithm 
 
 ## Installation
