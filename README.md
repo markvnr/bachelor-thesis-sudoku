@@ -1,5 +1,5 @@
 # Sudoku Application in Java
-My bachelor thesis work in which I developed a Sudoku application in java which was randomly generated with a simple algorithm 
+This repository contains the source code and project files of my bachelor thesis work in which I developed a Sudoku application in java which was randomly generated with a simple algorithm 
 
 ## Installation
 
